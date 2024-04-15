@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+.idea/
+l_openvino_toolkit_p_2021.3.394.tgz
+l_openvino_toolkit_p_2021.3.394.tgz.1
+openvino-colab
